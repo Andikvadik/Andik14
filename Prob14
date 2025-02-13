@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Слухаємо Scorpions?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Будеш зі мною слухати Scorpions?</h1>
+    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Мила гіфка">
+    <div class="buttons">
+        <a href="yes.html" class="btn">Так</a>
+        <a href="no.html" class="btn">Ні</a>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>УРА!!!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>УРА!!!</h1>
+    <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Радісна гіфка">
+    <a href="index.html" class="btn">Назад</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>У тебе нема вибору</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>У тебе нема вибору</h1>
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Сумна гіфка">
+    <a href="index.html" class="btn">Назад</a>
+</body>
+</html>
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #fbe3e8;
+}
+
+h1 {
+    color: #d63384;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #ff4081;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.btn:hover {
+    background-color: #d63384;
+}
