@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>У тебе нема вибору</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>У тебе нема вибору</h1>
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Сумна гіфка">
+    <a href="index.html" class="btn">Назад</a>
+</body>
+</html>
